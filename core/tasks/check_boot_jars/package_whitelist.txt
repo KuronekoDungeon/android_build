@@ -212,3 +212,6 @@ org\.apache\.xalan\.extensions
 org\.apache\.xalan\.processor
 org\.apache\.xalan\.transformer
 org\.apache\.xalan\.xslt
+
+#extra
+org\.codeaurora\.camera
